@@ -200,6 +200,7 @@ Format:
 | Matthias Wheelhouse | [Tunacrackers](https://github.com/tunacrackers) ||
 | Max S | [Vutpa](https://github.com/Vutpa) | Highschool Student wanting to wet my feet in programming |
 | Maya Osbourne | [mayaosbourne](https://github.com/mayaosbourne) | Computer Science student. Proficient in Java with some C, Assembly, HTML, CSS, SQL, and Python experience. |
+| Michael Humpherys | [mhumpher](https://github.com/mhumpher) | C++, little R. I'm an actuary trying to learn more programming|
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Michael Movsesov | [michaelmov](https://github.com/michaelmov) | Information Systems student wanting to become a good web developer. I have knowledge of HTML, CSS, JavaScript, PHP and C# but really want to focus on learning as much PHP as I contribute to projects on GitHub|
 | Michael Vetter | [jubalh](https://github.com/jubalh) | 4 Years working experience in C. Basic knowledge of Java. Would like to practise and contribute to open source. Looking forward to learn how the open source world works. |
